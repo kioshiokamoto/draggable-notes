@@ -4,7 +4,7 @@
 
 Aplicacion permite ingresar notas, que se generan con un fondo de color aleatorio. Desplazar notas y eliminarlas.
 
-![Ejemplo](C:\Users\Kioshi\Desktop\Universidad 2020 I\Learning others\react\draggable-notes\preview.JPG)
+![Ejemplo](./preview.JPG)
 
 <hr />
 
